@@ -1,0 +1,15 @@
+D:\iti\Web API\Day2\lab2\lab2.BL\bin\Debug\net7.0\lab2.BL.deps.json
+D:\iti\Web API\Day2\lab2\lab2.BL\bin\Debug\net7.0\lab2.BL.dll
+D:\iti\Web API\Day2\lab2\lab2.BL\bin\Debug\net7.0\lab2.BL.pdb
+D:\iti\Web API\Day2\lab2\lab2.BL\bin\Debug\net7.0\lab2.DAL.dll
+D:\iti\Web API\Day2\lab2\lab2.BL\bin\Debug\net7.0\lab2.DAL.pdb
+D:\iti\Web API\Day2\lab2\lab2.BL\obj\Debug\net7.0\lab2.BL.csproj.AssemblyReference.cache
+D:\iti\Web API\Day2\lab2\lab2.BL\obj\Debug\net7.0\lab2.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\Web API\Day2\lab2\lab2.BL\obj\Debug\net7.0\lab2.BL.AssemblyInfoInputs.cache
+D:\iti\Web API\Day2\lab2\lab2.BL\obj\Debug\net7.0\lab2.BL.AssemblyInfo.cs
+D:\iti\Web API\Day2\lab2\lab2.BL\obj\Debug\net7.0\lab2.BL.csproj.CoreCompileInputs.cache
+D:\iti\Web API\Day2\lab2\lab2.BL\obj\Debug\net7.0\lab2.BL.csproj.CopyComplete
+D:\iti\Web API\Day2\lab2\lab2.BL\obj\Debug\net7.0\lab2.BL.dll
+D:\iti\Web API\Day2\lab2\lab2.BL\obj\Debug\net7.0\refint\lab2.BL.dll
+D:\iti\Web API\Day2\lab2\lab2.BL\obj\Debug\net7.0\lab2.BL.pdb
+D:\iti\Web API\Day2\lab2\lab2.BL\obj\Debug\net7.0\ref\lab2.BL.dll
